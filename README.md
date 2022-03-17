@@ -10,8 +10,9 @@ http://localhost:9010/flightreservation/
 http://localhost:9020/flightcheckin/showStartCheckIn
 
 ## Note: 
---First open the reservation application login or signup and search for flights and make reservations accordingly where you get the "reservation Id" after successfully completing.
---then open checkin application use the reservation Id which you got in the reservation application and enter the reservation Id to checkIn.
+-->First open the reservation application login or signup and search for flights and make reservations accordingly where you get the "reservation Id" after successfully completing.
+
+-->then open checkin application use the reservation Id which you got in the reservation application and enter the reservation Id to checkIn.
 
 
 # For database Setup
