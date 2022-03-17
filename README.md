@@ -14,6 +14,12 @@ http://localhost:9020/flightcheckin/showStartCheckIn
 
 -->then open checkin application use the reservation Id which you got in the reservation application and enter the reservation Id to checkIn.
 
+--> To login as admin use admin credentials
+
+username:  admin@admin.com
+
+password:  admin123
+
 
 # For database Setup
 use reservations.sql
